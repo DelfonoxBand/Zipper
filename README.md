@@ -5,3 +5,4 @@
 ## Available for:
 Only for MacOS Now.
 For windows, i will add it soon.
+And for linux too.
